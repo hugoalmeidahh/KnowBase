@@ -1,3 +1,11 @@
-# Anotations of curse in [PythonPRO](https://www.python.pro.br/)
+# Anotations of Python studing
 
-Module Python Birds
+> Linux already comes with python installed
+> Given preference for use Python 3, always use the last version 
+
+-----
+## Anotations of curse in [Python Pro](https://www.python.pro.br/)
+
+## Module Python Birds 
+### 
+-----
