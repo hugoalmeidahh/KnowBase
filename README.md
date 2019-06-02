@@ -1,2 +1,3 @@
 # KnowBase
-For use know how use any languages.
+
+> anotations from my day to day
